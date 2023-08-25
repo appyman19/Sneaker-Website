@@ -6,10 +6,12 @@ To get a copy of the website download the repository as a zip file and extract i
 
 # Prerequisite 
 A text editor for example Visual Studio Code
+
 A web browser such as Google Chrome
 
 # Built Using
 Visual Studio Code for programming 
+
 Google Chrome to view the website
 
 
